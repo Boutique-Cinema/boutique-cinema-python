@@ -1,0 +1,4 @@
+train: C://FastAPIProject//ImageDetect//dataset//images//train
+val: C://FastAPIProject//ImageDetect//dataset//images//val
+nc: 1
+names: ["movie ticket"]
